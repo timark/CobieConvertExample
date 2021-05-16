@@ -7,4 +7,4 @@ This program demonstrates opening the CObie file with Xbim.CobieExpress which re
 We then open the Template file using Epplus but you can use other libraries such as Spire. 
 We set the template file workbook we want to poplutate and then use Linq to get the data and write to each row's cell. 
 
-I building this application using Visual Studio Code
+I built this application using Visual Studio Code
